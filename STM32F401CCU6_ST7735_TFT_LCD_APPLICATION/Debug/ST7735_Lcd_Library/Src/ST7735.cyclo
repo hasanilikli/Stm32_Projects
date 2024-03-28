@@ -1,0 +1,9 @@
+ST7735.c:20:6:ST7735_Send_Command	2
+ST7735.c:48:6:ST7735_Sending_Command_Data	1
+ST7735.c:70:6:ST7735_Reading_Command_Data	1
+ST7735.c:88:6:ST7735_Background_Colour	3
+ST7735.c:107:6:ST7735_TFT_Init	6
+ST7735.c:165:6:ST7735_Rectangle_Drawing	7
+ST7735.c:197:6:ST7735_Draw_Pixel	1
+ST7735.c:222:6:ST7735_String	7
+ST7735.c:268:6:STT7735_Reset	1

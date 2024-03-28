@@ -1,0 +1,9 @@
+LCD_NOKIA5110.c:13:6:lcd_5110_Init	1
+LCD_NOKIA5110.c:33:6:Turn_On_Backlight	1
+LCD_NOKIA5110.c:41:6:Turn_Off_Backlight	1
+LCD_NOKIA5110.c:49:6:lcd_5110_SetCursor	1
+LCD_NOKIA5110.c:64:6:lcd_5110_Clear	3
+LCD_NOKIA5110.c:84:6:lcd_5110_command	1
+LCD_NOKIA5110.c:97:6:lcd_5110_data	1
+LCD_NOKIA5110.c:110:6:lcd_5110_String	2
+LCD_NOKIA5110.c:126:6:lcd_5110_draw_pixel	1
